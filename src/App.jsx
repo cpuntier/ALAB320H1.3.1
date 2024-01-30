@@ -64,7 +64,7 @@ function App() {
             score: 85
           }
         ]
-      }
+      },
     ]
   })
 
